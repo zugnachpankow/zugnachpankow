@@ -21,7 +21,7 @@ This page links to some (ongoing) coding work and the corresponding repositories
 
 | Project | Description | Link |
 |----------|-------------|------|
-| **World-Earth Resilience Models** | Modeling framework for socio-ecological tipping points | [🔗 Repository](https://github.com/janderie/WES_Resilience) |
+| **World-Earth Resilience Models** | Modeling framework for World-Earth models and resilience analyses | [🔗 Repository](https://github.com/janderie/WES_Resilience) |
 | **Pyunicorn Contributions** | My enhancements, tests, and documentation contributions to the pyunicorn package | [🔗 Repository](https://github.com/pik-copan/pyunicorn) |
 | **Behavioural Contagion Model** | Code for my Master's thesis simulation and analysis, based on ongoing work with the pycopancore framework | [🔗 Repository](https://github.com/zugnachpankow/pycopancore-nexploit) |
 
