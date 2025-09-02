@@ -1,8 +1,8 @@
 # Hi there, I'm Max   👋
 
-I’m a **PhD student** in the [Earth Resilience Science Unit (ERSU)](https://www.pik-potsdam.de) at the Potsdam Institute for Climate Impact Research (PIK), supervised by **Ricarda Winkelmann** and **Jonathan Donges**.  
+I’m a PhD student in the [Earth Resilience Science Unit (ERSU)](https://www.pik-potsdam.de) at the Potsdam Institute for Climate Impact Research (PIK).  
 
-My work focuses on **developing and quantifying metrics for (World-)Earth system resilience**, using pathwise and information-based approaches.  
+My work focuses on developing and quantifying metrics for (World-)Earth system resilience, using pathwise and information-based approaches.  
 
 This page links to some (ongoing) coding work and the corresponding repositories. 
 
