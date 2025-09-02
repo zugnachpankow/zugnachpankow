@@ -17,13 +17,6 @@ This page links to some (ongoing) coding work and the corresponding repositories
 
 ---
 
-## 💻 Coding Skills  
-- **Languages:** Python, Julia, Bash, LaTeX
-- **Modeling & Analysis:** nonlinear time series, complex networks, resilience metrics  
-- **Reproducibility:** Jupyter, Git
-
----
-
 ## 📂 Featured Repositories  
 
 | Project | Description | Link |
