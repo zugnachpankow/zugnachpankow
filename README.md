@@ -29,4 +29,4 @@ This page links to some (ongoing) coding work and the corresponding repositories
 
 ## 📫 Get in Touch  
 
-Please refer to the websited etc. in my profile info for getting in touch!
+Please refer to the websites etc. in my profile info for getting in touch!
